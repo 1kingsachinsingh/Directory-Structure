@@ -24,8 +24,7 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 # Creating a Directory Structure in Angular
 In this assesment, we will create a Directory Structure(file-explorer), which will provide a desktop Like Folder Managment enviornment in angular, Where we can create and traverse between directories & subdirectories in a SPA.
 
-
-![angular-file-explorer]https://github.com/1kingsachinsingh?tab=repositories
+https://github.com/1kingsachinsingh/Directory-Structure
 
 
 
