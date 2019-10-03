@@ -36,3 +36,8 @@ Basic Operation Performed by this SPA-
 
 Also, we take a look at how dumb components can help us re-using our components and keep them independent from the actual file-api of the backend.
 
+## Authors
+
+* **Sachin Singh** - *Initial work* - [Sachin Singh](https://github.com/1kingsachinsingh)
+* **HubbleConnected** - *Problem Statement* - [HubbleConnected](https://hubbleconnected.com/)
+
